@@ -1,0 +1,8 @@
+print("Enter the numbers")
+a=input("a ")
+b=input("b ")
+c=input("c ")
+sum=int(a)+int(b)+int(c)
+avg=int(sum/3)
+print("sum "+str(sum))
+print("avg "+str(avg))
